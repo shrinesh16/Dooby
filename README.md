@@ -1,5 +1,5 @@
 # Dobby-Ai
-mean Do it baby
+means Do it baby
 
 creating and training my simple Ai
 Dooby is going to be my personal AI which runs locally witha all the posible access that i can give it will be a friendly human serving ai
