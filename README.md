@@ -9,3 +9,5 @@ _this ai won't be a simple chat ai that helps you do home work Dooby will have t
 THE ONE
 
 its pissing me off that i dont have enough resourse to develop ha highly inteligent Ai but ill make sure the this will be far better than what i think the out come will be
+
+going to integrate a JARVIS or FRIDAY style device hop Ai agent with consistent memory
